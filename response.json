@@ -1,0 +1,60 @@
+{
+  "message": "Go Serverless v1.0! Your function executed successfully!",
+  "input": {
+    "resource": "/hello-world",
+    "path": "/hello-world",
+    "httpMethod": "GET",
+    "headers": {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,af;q=0.7",
+      "cache-control": "max-age=0",
+      "CloudFront-Forwarded-Proto": "https",
+      "CloudFront-Is-Desktop-Viewer": "true",
+      "CloudFront-Is-Mobile-Viewer": "false",
+      "CloudFront-Is-SmartTV-Viewer": "false",
+      "CloudFront-Is-Tablet-Viewer": "false",
+      "CloudFront-Viewer-Country": "US",
+      "Host": "0171rltbak.execute-api.us-east-1.amazonaws.com",
+      "upgrade-insecure-requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36",
+      "Via": "2.0 6b55f12026efe25ff5fb4b22b811b2c6.cloudfront.net (CloudFront)",
+      "X-Amz-Cf-Id": "4BGxKPxO0xzJFo5gb6QwdSyvASBBvx7UeYYF2-fi0VA3yEmtI9X7QA==",
+      "X-Amzn-Trace-Id": "Root=1-5ab3a87a-bc15cd004c04b7b8d1ffa528",
+      "X-Forwarded-For": "159.65.45.223, 205.251.250.46",
+      "X-Forwarded-Port": "443",
+      "X-Forwarded-Proto": "https"
+    },
+    "queryStringParameters": null,
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+      "requestTime": "22/Mar/2018:12:58:34 +0000",
+      "path": "/dev/hello-world",
+      "accountId": "180267007361",
+      "protocol": "HTTP/1.1",
+      "resourceId": "yo42p8",
+      "stage": "dev",
+      "requestTimeEpoch": 1521723514314,
+      "requestId": "baace378-2dd0-11e8-afc4-a99539125ea1",
+      "identity": {
+        "cognitoIdentityPoolId": null,
+        "accountId": null,
+        "cognitoIdentityId": null,
+        "caller": null,
+        "sourceIp": "159.65.45.223",
+        "accessKey": null,
+        "cognitoAuthenticationType": null,
+        "cognitoAuthenticationProvider": null,
+        "userArn": null,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36",
+        "user": null
+      },
+      "resourcePath": "/hello-world",
+      "httpMethod": "GET",
+      "apiId": "0171rltbak"
+    },
+    "body": null,
+    "isBase64Encoded": false
+  }
+}
